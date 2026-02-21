@@ -65,10 +65,5 @@ public class Main {
         var worker2 = worker+94;
         var totalHours2 = worker2*workingHours;
         System.out.println("Если в компании работает " + worker2 + " человек, то всего " + totalHours2 + " часов работы может быть поделено между сотрудниками");
-
-
-
-
-
     }
 }
