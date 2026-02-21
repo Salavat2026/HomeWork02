@@ -27,14 +27,23 @@ public class Main {
         paper=paper-7639;
         System.out.println ("paper="+paper);
         System.out.println ("Зaдача №4");
-var friend=19;//Инициализируем переменную значением 19
-        System.out.println("friend="+friend);//Выводим значение переменной в консоль
+        var friend=19;//Инициализируем переменную значением 19
+        System.out.println("friend="+friend);//Выводим значение 1 переменной в консоль
         System.out.println("Увеличиваем значение переменной на 2");
         friend=friend+2;//Увеличиваем значение переменной на 2
-        System.out.println("friend="+friend);//Выводим значение переменной в консоль
+        System.out.println("friend="+friend);//Выводим значение 2 переменной в консоль
         System.out.println("Делим на 7 ");
         friend=friend/7;//Делим на 7
-        System.out.println("friend="+friend);
+        System.out.println("friend="+friend);//Выводим значение 3 переменной в консоль
+        System.out.println("Зaдача №5");
+        var frog=3.5;//Инициализируем переменную значением 3,5
+        System.out.println("frog="+frog);//Выводим значение 1 переменной в консоль
+        System.out.println("Увеличиваем переменную в 10 раз и получаем");
+        frog=frog*10;//Увеличиваем переменную в 10 раз
+        System.out.println("frog="+frog);//Выводим значение 2 переменной в консоль
+        System.out.println("Делим на 3,5");
+
+
 
     }
 }
